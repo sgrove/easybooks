@@ -6,7 +6,6 @@ gem 'mysql', '2.8.1'
 gem 'ruby-prof'
 gem 'authlogic'
 gem 'settingslogic'
-gem 'pg'
 gem 'ofx-parser'
 
 
